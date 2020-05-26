@@ -1,4 +1,4 @@
-﻿//Made by Marc Perales Salomó
+﻿//Made by Marc Perales
 using UnityEngine;
 
 public class Credits : MonoBehaviour

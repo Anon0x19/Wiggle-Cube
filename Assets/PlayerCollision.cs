@@ -1,4 +1,4 @@
-﻿//Made by Marc Perales Salomó
+﻿//Made by Anon0x19
 using UnityEngine;
 
 public class PlayerCollision : MonoBehaviour
